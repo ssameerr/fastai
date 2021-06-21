@@ -56,7 +56,7 @@ terminado>=0.6
 testfixtures>=6.2.0
 testpath>=0.4.2
 torch<0.4
-torchtext==0.2.3
+torchtext==0.10.0
 torchvision>=0.2.0
 tornado>=4.5.2,<5
 tqdm>=4.15.0

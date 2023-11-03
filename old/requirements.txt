@@ -32,7 +32,7 @@ pandas_summary==0.0.5
 pandocfilters>=1.4.2
 pexpect>=4.2.1
 pickleshare>=0.7.4
-Pillow>=4.2.1
+Pillow>=10.0.0
 prompt-toolkit>=1.0.15,<2.0.0
 ptyprocess>=0.5.2
 Pygments>=2.2.0
@@ -58,7 +58,7 @@ testpath>=0.4.2
 torch<0.4
 torchtext==0.2.3
 torchvision>=0.2.0
-tornado>=4.5.2,<5
+tornado>=6.3.3,<5
 tqdm>=4.15.0
 traitlets>=4.3.2
 wcwidth>=0.1.7
